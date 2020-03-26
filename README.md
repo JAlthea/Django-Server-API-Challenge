@@ -1,5 +1,6 @@
 # Django Server API Challenge
 Used Tech : Python, Django (Django Rest Framework) <br>
+View Type : FBV (Function Based View) <br>
 Chanllenge URL : https://programmers.co.kr/competitions/130/2020-hwahae-blind-recruitment <br>
 
 # Server API Play video
