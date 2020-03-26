@@ -1,5 +1,6 @@
 # Django Server API Challenge
-Used Tech : Python, Django (Django Rest Framework)
+Used Tech : Python, Django (Django Rest Framework) <br>
+Chanllenge URL : https://programmers.co.kr/competitions/130/2020-hwahae-blind-recruitment <br>
 
 # Server API
 <div><img src="image/server api.JPG"></div>
