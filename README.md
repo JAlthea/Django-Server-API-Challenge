@@ -14,7 +14,7 @@ Used Tech : Python, Django (Django Rest Framework)
          Query String Example :
          http://localhost:8000/products/?skin_type=oily&category=skincare&page=3&include_ingredient=waterfall
 
-<상품 상세보기>
+<상품 상세보기> <br>
          상품 목록에서 상품 하나를 클릭하면, 상세보기로 전환되며 섬네일 이미지에서 전체 이미지로 바꿔 출력하고, <br>
          선택한 상품과 같은 피부 타입의 상품 3가지를 보인다. <br>
 
