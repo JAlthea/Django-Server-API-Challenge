@@ -2,9 +2,8 @@
 Used Tech : Python, Django (Django Rest Framework) <br>
 Chanllenge URL : https://programmers.co.kr/competitions/130/2020-hwahae-blind-recruitment <br>
 
-# Server API
-<div><img src="image/server api.JPG"></div>
-
+# Server API Play video
+[Server API](django-server-api.mp4)
 
 # Description
 <상품 목록 조회하기> <br>
