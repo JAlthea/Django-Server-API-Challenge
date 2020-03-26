@@ -19,4 +19,4 @@ Used Tech : Python, Django (Django Rest Framework)
          선택한 상품과 같은 피부 타입의 상품 3가지를 보인다. <br>
 
          Query String Example :
-         http://localhost:8000/product/1000/?skin_type=oily
+         http://localhost:8000/product/1000/?skin_type=sensitive
