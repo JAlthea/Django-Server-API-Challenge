@@ -13,7 +13,7 @@ Chanllenge URL : https://programmers.co.kr/competitions/130/2020-hwahae-blind-re
          옵션 : category(화장품 종류), include_ingredient(포함된 성분), exclude_ingredient(제외할 성분), page(페이지) <br>
          <pre>
          Query String Example :
-         http://localhost:8000/products/?skin_type=oily&category=skincare&page=3&include_ingredient=waterfall
+         http://mywepsite/products/?skin_type=oily&category=skincare&page=3&include_ingredient=waterfall
          </pre>
          ![alt-tag](image/item_list.gif)
 
@@ -22,6 +22,6 @@ Chanllenge URL : https://programmers.co.kr/competitions/130/2020-hwahae-blind-re
          선택한 상품과 같은 피부 타입의 상품 3가지를 보인다. <br>
          <pre>
          Query String Example :
-         http://localhost:8000/product/1000/?skin_type=sensitive
+         http://mywepsite/product/1000/?skin_type=sensitive
          </pre>
          ![alt-tag](image/item_detail.gif)
